@@ -103,7 +103,7 @@ const styles = {
 
 const config = {
   // animate: true,
-  // arrowIcon: "V",
+  arrowIcon: "+",
   // tabFocus: true
 };
 
@@ -112,7 +112,7 @@ function Faqs() {
     <div className="fq">
     <div className="container ">
         <div>
-            <h1 className="text-center pt-5 pb-5">FAQS</h1>
+            <h1 className="text-center py-5">FAQS</h1>
         </div>
       <Faq data={data} styles={styles} config={config} />
     </div>
