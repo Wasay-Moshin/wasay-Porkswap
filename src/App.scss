@@ -1,0 +1,100 @@
+.navbar{
+  background-color: #12436B;
+}
+.c1{
+  color: white !important;
+}
+.Hero{
+  padding-top: 70px;
+  min-height: 540px;
+  background-image:url("Media/bg.png") ;
+  background-repeat: no-repeat;
+  color: white;
+}
+
+.feature{
+  background-image: url("Media/Section-31.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+.boxes{
+  padding-top: 15px;
+  padding-bottom: 20px;
+}
+.shad{
+  box-shadow: 0 8px 40px 0 rgba(16, 16, 16, 0.1)!important;
+  border-radius: 3px;
+  background: white;
+}
+.coins{
+  padding-top: 20px;
+  margin-bottom: 50px;
+}
+.work{
+  background-image: url("Media/bg\ \(1\).png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.interface{
+  padding-top: 40px;
+  margin-bottom: 30px;
+}
+.color{
+  color:#E17863;
+}
+.p-interface{
+  font-size: 30px;
+}
+.utilities{
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.roadmap{
+  background-image: url("Media/Frame-13-3.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  padding-top: 30px;
+  margin-bottom: 60px;
+}
+
+.styles_faq-row-wrapper__3vA1D h2{
+  padding: 10px; 
+}
+.styles_faq-row-wrapper__3vA1D .styles_row-body__1NvUo .styles_faq-row__2YF3c{
+  margin: 20px ;
+}
+.styles_faq-row-wrapper__3vA1D .styles_row-body__1NvUo .styles_faq-row__2YF3c .styles_row-title__1YiiY .styles_row-title-text__1MuhU{
+  padding: 5px!important;
+}
+.faq-row {
+  background: none;
+  border-bottom: none;
+  box-shadow: 1px 1px 1px 1px;
+  opacity: 0px;
+}
+
+.styles_faq-row-wrapper__3vA1D .styles_faq-row__2YF3c{
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border-bottom: none;
+}
+.styles_faq-row-wrapper__3vA1D .styles_row-body__1NvUo .styles_faq-row__2YF3c .styles_row-content__QOGZd .styles_row-content-text__2sgAB{
+  padding: 10px !important;
+}
+.fq{
+  background-image: url('Media/bg\ \(1\).png');
+  margin-top: 20px;
+  padding-bottom: 40px;
+}
+.footer{
+  background-color: #12436B;
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
