@@ -103,7 +103,7 @@ const styles = {
 
 const config = {
   // animate: true,
-  arrowIcon: "+",
+  // arrowIcon: "V",
   // tabFocus: true
 };
 
