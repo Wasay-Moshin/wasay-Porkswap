@@ -2,6 +2,7 @@ import React from "react";
 
 function Hero() {
   return (
+  <div>
     <div className="Hero">
       <div className="container">
         <div className="row">
@@ -62,6 +63,7 @@ function Hero() {
           </div>
         </div>
       </div>
+    </div>
     </div>
   );
 }
