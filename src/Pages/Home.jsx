@@ -4,6 +4,7 @@ import Seen from "../Components/Elements/Seen";
 import Features from "../Components/Elements/Features";
 import Coins from "../Components/Elements/Coins";
 import Work from "../Components/Elements/Work";
+import Token from "../Components/Elements/Token";
 import Interface from "../Components/Elements/Interface";
 import Utilities from "../Components/Elements/Utilities";
 import Comparison from "../Components/Elements/Comparison";
@@ -17,6 +18,7 @@ function Home() {
       <Features/>
       <Coins/>
       <Work/>
+      <Token/>
       <Interface/>
       <Utilities/>
       <Comparison/>
