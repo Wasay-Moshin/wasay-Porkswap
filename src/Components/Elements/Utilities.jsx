@@ -11,7 +11,8 @@ function Utilities() {
           </h1>
         </div>
         <div className="row">
-          <div className="col-md-4 shad ">
+          <div className="col-md-1"></div>
+          <div className="col-md-3 shad ">
             <div className="text-start">
               <img src="Assests/u1.png" alt="" width={"80px"} />
               <h5>Governance</h5>
@@ -21,8 +22,10 @@ function Utilities() {
                 features
               </p>
             </div>
+            <div></div>
           </div>
-          <div className="col-md-4  shad">
+          <div className="col-md-1"></div>
+          <div className="col-md-3  shad">
             <div className="text-start">
               <img src="Assests/u2.png" alt="" width={"80px"} />
               <h5>Incentives</h5>
@@ -33,7 +36,8 @@ function Utilities() {
               </p>
             </div>
           </div>
-          <div className="col-md-4 shad">
+          <div className="col-md-1"></div>
+          <div className="col-md-3 shad">
             <div className="text-start">
               <img src="Assests/u3.png" alt="" width={"80px"} />
               <h5>Deflation</h5>

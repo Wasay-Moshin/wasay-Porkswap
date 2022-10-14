@@ -11,14 +11,16 @@ function Token() {
               <span className="color">Distribution</span>
             </h1>
           </div>
-
           <div className="col-md-6 m-auto">
             <div className="token-bg2">
+              <div>
               <div className="text-center">
-                <h5>
-                  <strong>50%</strong>
-                </h5>
-                <strong>Liquidity Rewards (Locked)</strong>
+                <div className="liquid-reward" >
+                  <h5>
+                    <strong>50%</strong>
+                  </h5>
+                  <strong>Liquidity Rewards (Locked)</strong>
+                </div>
               </div>
               <div className="text-center Liquidity">
                 <h5>
@@ -34,15 +36,18 @@ function Token() {
               </div>
               <div className=" text-center team-locked">
                 <h5>
-                  <strong>10%</strong><br/>
+                  <strong>10%</strong>
+                  <br />
                 </h5>
                 <strong>Team - locked</strong>
               </div>
               <div className=" text-center public-sale">
                 <h5>
-                  <strong>20%</strong><br/>
+                  <strong>20%</strong>
+                  <br />
                 </h5>
                 <strong>Public Sale</strong>
+              </div>
               </div>
             </div>
           </div>

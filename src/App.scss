@@ -5,13 +5,15 @@
   color: white !important;
 }
 .Hero {
-  padding-top: 70px;
+  padding-top: 80px;
   min-height: 540px;
   background-image: url("Media/bg.png");
   background-repeat: no-repeat;
   position: relative;
-  
   color: white;
+}
+.hero1{
+  position: relative;
 }
 .par{
   position: absolute;
@@ -31,8 +33,9 @@
 }
 .shad {
   box-shadow: 0 8px 40px 0 rgba(16, 16, 16, 0.1) !important;
-  border-radius: 3px;
+  border-radius: 4px;
   background: white;
+  margin-bottom: 20px;
 }
 .coins {
   padding-top: 20px;
@@ -46,10 +49,15 @@
 .token-bg1 {
   padding-top: 40px;
   padding-bottom: 30px;
+  padding-left: 20px;
+  padding-right: 20px;
   background-image: url("Media/Frame-13-3.png") ;
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: contain;
+}
+@media screen and (max-width:600px) {
+
 }
 .token-bg2 {
   position: relative;
@@ -75,23 +83,22 @@
 }
 .Liquidity{
   position: absolute;
-  left: 0;
-  top:40px;
+  left: 70px;
+  top:30px;
 }
 .growth-hacking{
-
   position: absolute;
   left: 0;
   bottom: 7rem;
 }
 .team-locked{
-  top:40px;
+  top:25px;
   position: absolute;
-  right: 0;
+  right: 50px;
 }
 .public-sale{
   position: absolute;
-  right: 0;
+  right: 0px;
   bottom: 7rem;
 }
 .interface {
@@ -107,15 +114,15 @@
 .utilities {
   display: flex;
   flex-wrap: wrap;
-  margin-top: 30px;
-  margin-bottom: 30px;
+  padding-top: 40px;
+  padding-bottom: 60px;
 }
 .roadmap {
+  display: flex;
   background-image: url("Media/Frame-13-3.png");
   background-size: contain;
   position: relative;
   background-repeat: no-repeat;
-  // background-attachment: fixed;
   padding-top: 30px;
   margin-bottom: 60px;
 }

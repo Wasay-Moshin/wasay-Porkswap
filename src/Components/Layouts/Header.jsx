@@ -51,7 +51,7 @@ function Header() {
               </li>
               <li className="nav-item">
                 <a className="nav-link active " href="/">
-                <b className="c1">Audit</b>
+                <b className="c1">Audit Report</b>
                 </a>
               </li>
             </ul>
